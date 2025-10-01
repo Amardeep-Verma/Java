@@ -1,3 +1,4 @@
+/*
 package Arrays;
 
 public class MultiDimensional_Array {
@@ -13,3 +14,4 @@ public class MultiDimensional_Array {
         }
     }
 }
+*/
